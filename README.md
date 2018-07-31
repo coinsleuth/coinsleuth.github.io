@@ -1,2 +1,2 @@
-# coinsleuth.github.io
+# Coming soon
 Thoughts on crypto coins and related isues

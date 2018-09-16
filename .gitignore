@@ -1,2 +1,5 @@
-website.iml
+.bundle
+vendor
 _site
+.sass-cache
+.jekyll-metadata

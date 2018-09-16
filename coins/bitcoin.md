@@ -3,6 +3,7 @@ layout: page
 title: Bitcoin
 excerpt: The first born...
 ---
+## Bitcoin
 ![Bitcoin Genesis Block Raw hex](/images/bitcoin_genesis_block.jpg)
       
 ### Introduction

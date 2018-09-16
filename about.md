@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Coin Sleuth
+permalink: /about/
 ---
 Cryptocurrencies are the new kid on the block in the evolution of online human interaction.  They present the intersection of the evolution of commerce and the evolution of the internet.  The internet evolved from a communication network for academics to brochure like websites to today’s interactive platform allowing us to manipulate data and perform transactions.  It has, however, achieved this by losing the decentralized nature that allowed it to initially flourish.  
 

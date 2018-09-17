@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is the bubble  bursting?"
-date:   2018-09-28 00:00:00
+date:   2018-09-17 00:00:00
 excerpt: After 'blasting off to the moon' in the last half of 2017, the price of crypto currencies seems to have come crashing back to earth.  Some even say that the massive price increases in 2018 was a bubble waiting to burst.  The Sleuth's thoughts below.
 categories: Investment price bubble
 ---

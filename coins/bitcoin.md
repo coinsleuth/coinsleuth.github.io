@@ -18,4 +18,4 @@ The foundational element for this introduced by Nakamoto is the blockchain - whi
 at a predictable rate
 2. rewarding those who maintain the stability and security of the Bitcoin network.
 
-These two factors ensure the price stabilty/value of Bitcoin over the long term by limiting the ability to manipulate the value.  Furthermore, Satoshi Nakamoto ensured that Bitcoin has a deflationary nature - as opposed to the inflationary nature of fractional reserve based currencies - by setting a limit \[by definition\] of 21 million Bitcoin.  It is expected that this number will be reached by approximately 2140AD at an average inflation rate of 9%.
+These two factors ensure the price stabilty/value of Bitcoin over the long term by limiting the ability to manipulate the value.  Furthermore, Satoshi Nakamoto ensured that Bitcoin has a deflationary nature - as opposed to the inflationary nature of fractional reserve based currencies - by setting a limit \[by definition\] of 21 million Bitcoin.  It is expected that this number will be reached by approximately 2140AD.

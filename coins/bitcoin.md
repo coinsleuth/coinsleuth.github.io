@@ -3,10 +3,8 @@ layout: page
 title: Bitcoin
 excerpt: The first born...
 ---
-## Bitcoin
-![Bitcoin Genesis Block Raw hex](/images/bitcoin_genesis_block.jpg)
-      
-### Introduction
+## Gentle Introduction to Bitcoin
+
 First proposed in an [email](https://satoshi.nakamotoinstitute.org/emails/cryptography/1/) to the cryptography mailing list, Bitcoin was 'born' on January 3 2009, when the first block was mined by Satoshi Nakamoto.  In the email he describes Bitcoin as 'a cash system that's fully peer-to-peer, with no trusted third party', describing a form of cash that like the internet was essentially free of control by a central authority.  
 
 The internet community had come to see the existence of a cash system free from central control as being imposible due to the problem that data could be transfered to another party without destroying the original copy, thus the need for a central authority to keep track of who owns what. Nakamoto came up with an original solution for this problem by attaching the confirmation of transactions on the blockchain to real life value - in this case cpu power.
